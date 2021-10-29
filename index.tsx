@@ -5,6 +5,8 @@ function MyComponent({ a, b }: { a: number; b: string; }) {
 
 function Foo() {
     return <div>
-        <MyComponent />
+        <MyComponent 
+            
+        />
     </div>
 }
